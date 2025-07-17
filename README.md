@@ -37,4 +37,4 @@ _BSIT Major in Web and Mobile Development (2021–2025)_
 
 ---
 
-📄 [Download My Resume (PDF)](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/Nuguid-Cristan-Josh_Resume.pdf)
+📄 [Download My Resume (PDF)](https://github.com/CristanJosh/CristanJosh/raw/main/Nuguid-Cristan-Josh-Resume.pdf)
